@@ -1,0 +1,45 @@
+h1{
+    color: rgb(214, 161, 16);
+    text-shadow: 1px 2px 2px black, 0 0 40px rgba(202, 9, 9, 0.884), 0 0 5px rgba(143, 117, 3, 0.63);
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h2{
+    font-size: 24px;
+    color: #f6ffce;
+    text-align: center;
+    z-index: 50;
+    text-shadow: 7px 4px 5px blue;
+}
+
+p{
+    color: #f6ffce;  
+    background: #832b0870;
+    z-index: 100;
+    text-align: center
+
+}
+
+div.galeria{
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgb(230, 189, 10), 0 6px 20px 0 rgba(88, 77, 9, 0.5);
+    float: left;
+    width: 350px;
+    place-items: "center";
+    margin-left: 5%;
+}
+
+div.galeria img{
+    width: 100%;
+    height: 3S00px;
+}
+
+.galeria0 .foto {
+    columns: 3;
+}
+
+body {
+    color: #fff;
+}

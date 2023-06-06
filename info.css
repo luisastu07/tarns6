@@ -1,0 +1,38 @@
+h1{
+    color: white;
+    text-shadow: 1px 2px 2px black, 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    text-shadow: 1px 2px 2px black, 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+}
+
+.titulo{
+    background: #922B21;
+}
+
+.dis{
+
+    background: #8f820b;
+    z-index: 100;
+}
+   
+.program{
+
+    background: #8f820b;
+    z-index: 100;
+    margin-top: 0px;
+}
+   
+p{
+    text-align: center;
+}
+
+div.img img{
+    width: 100%;
+    height: 200px;
+}
+

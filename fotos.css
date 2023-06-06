@@ -1,0 +1,46 @@
+
+
+h1{
+    color: white;
+    text-shadow: 1px 2px 2px black, 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+}
+
+h2{
+    color: white;
+    text-shadow: 1px 2px 2px black, 0 0 25px blue, 0 0 5px blue;
+    text-align: center;
+}
+
+div.galeria{
+    margin: 10px 10px;
+    box-shadow: 0 4px 8px 0 rgb(230, 189, 10), 0 6px 20px 0 rgba(88, 77, 9, 0.5);
+    float: left;
+    width: 350px;
+    place-items: "center";
+    margin-left: 5%;
+
+}
+
+div.galeria img{
+    width: 80%;
+    height: 400px;
+}
+
+div.galeria:hover{
+    border: 5px solid rgba(88, 77, 9, 0.5);
+    transform: rotate(-3deg);
+}
+
+div.pie{
+    text-align: center;
+    text-shadow: 2px 2px 5ps purple;
+    padding: 10px;
+}
+
+p {
+    margin-bottom: 40px;
+    font-size: 18px;
+    color: #f6ffce;
+    padding: 0 100px;
+}

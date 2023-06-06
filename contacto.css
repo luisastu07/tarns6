@@ -1,0 +1,50 @@
+h1{
+    color: rgb(214, 161, 16);
+    text-shadow: 1px 2px 2px black, 0 0 40px rgba(202, 9, 9, 0.884), 0 0 5px rgba(143, 117, 3, 0.63);
+    text-align: center;
+    font-size: 40px;
+
+}
+
+h2{
+    font-size: 24px;
+    color: #f6ffce;
+    text-align: center;
+
+}
+
+.titulo{
+    background: #922B21;
+    z-index: 50;
+
+
+}
+
+.tex{
+    background: #8f820b;
+    z-index: 100;
+
+}
+
+p{
+    font-family: "Open Sans";
+    font-size: 24px;
+    color: #ccc;
+    line-height: 24px;
+    margin-bottom: 26px;
+}
+
+ul{
+    font-family: "Open Sans";
+    font-size: 14px;
+    color: #ccc;
+    line-height: 18px;
+    margin-bottom: 20px;
+}
+
+h3{
+    font-size: 24px;
+    color: #f6ffce;
+    text-align: center;
+
+}
